@@ -7,6 +7,10 @@
   margin: auto;
 }
 
+body{
+  background-color:gainsboro;
+}
+
 ul {
   list-style-position: inside;
   margin: auto;
@@ -20,19 +24,28 @@ ol {
 }
 
 header {
-  background-color: gainsboro;
-  color: brown;
+  background-color: gray;
+  color: turquoise;
   font-family: georgia;
   margin: auto;
   padding-top: 1px;
   height: 100px;
 }
 
+h2{
+  color: indigo;
+  font-family: gill sans, sans serif;
+}
+
+h3{
+  color: royalblue
+}
+
 a:link {
   color: red;
 }
 a:visited {
-  color: turquoise;
+  color: purple;
 }
 a:hover {
   color: green;
@@ -43,7 +56,11 @@ a:active {
 
 p {
   font-family: helvetica;
-  color: green;
+  color: darkcyan;;
+}
+
+li{
+  color: darkslateblue;
 }
 
 div {
