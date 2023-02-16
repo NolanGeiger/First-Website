@@ -1,0 +1,56 @@
+.text-centered {
+  text-align: center;
+}
+
+.wrapper {
+  width: 100px;
+  margin: auto;
+}
+
+ul {
+  list-style-position: inside;
+  margin: auto;
+  width: 225px;
+}
+
+ol {
+  list-style-position: inside;
+  margin: auto;
+  width: 225px;
+}
+
+header {
+  background-color: gainsboro;
+  color: brown;
+  font-family: georgia;
+  margin: auto;
+  padding-top: 1px;
+  height: 100px;
+}
+
+a:link {
+  color: red;
+}
+a:visited {
+  color: turquoise;
+}
+a:hover {
+  color: green;
+}
+a:active {
+  color: pink;
+}
+
+p {
+  font-family: helvetica;
+  color: green;
+}
+
+div {
+  display: grid;
+  place-items: center;
+}
+
+html {
+  box-sizing: border-box;
+}
