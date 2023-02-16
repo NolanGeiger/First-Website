@@ -59,6 +59,11 @@ p {
   color: darkcyan;;
 }
 
+footer{
+  background-color: slategrey;
+  color: white;
+}
+
 li{
   color: darkslateblue;
 }
