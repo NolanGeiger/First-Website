@@ -12,7 +12,7 @@ body{
 }
 
 ul {
-  list-style-position: inside;
+  list-style-position: square;
   margin: auto;
   width: 225px;
 }
