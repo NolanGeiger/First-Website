@@ -8,13 +8,17 @@
 }
 
 body{
-  background-color:silver;
+  background-color: whitesmoke;
 }
 
 ul {
-  list-style-position: square;
+  list-style-position: inside;
   margin: auto;
-  width: 225px;
+  width: 220px;
+}
+
+.align-left{
+  text-align: left;
 }
 
 ol {
@@ -24,8 +28,8 @@ ol {
 }
 
 header {
-  background-color: gray;
-  color: turquoise;
+  background-color: lightsteelblue;
+  color: darkslategrey;
   font-family: georgia;
   margin: auto;
   padding-top: 1px;
@@ -33,12 +37,12 @@ header {
 }
 
 h2{
-  color: indigo;
+  color: darkslategrey;
   font-family: gill sans, sans serif;
 }
 
 h3{
-  color: royalblue
+  color: darkslategrey;
 }
 
 a:link {
@@ -56,16 +60,11 @@ a:active {
 
 p {
   font-family: helvetica;
-  color: darkcyan;;
-}
-
-footer{
-  background-color: slategrey;
-  color: white;
+  color: midnightblue;
 }
 
 li{
-  color: darkslateblue;
+  color: mediumblue;
 }
 
 div {
@@ -75,4 +74,11 @@ div {
 
 html {
   box-sizing: border-box;
+}
+
+footer{
+  background-color: lightsteelblue;
+  color: darkslategray;
+  margin: 0;
+  padding: 3px;
 }
