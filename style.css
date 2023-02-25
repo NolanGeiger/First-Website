@@ -8,7 +8,7 @@
 }
 
 body{
-  background-color: whitesmoke;
+  background-color: lightsteelblue;
 }
 
 ul {
@@ -77,9 +77,9 @@ html {
   box-sizing: border-box;
 }
 
-footer{
-  background-color: lightsteelblue;
-  color: darkslategray;
-  margin: auto;
+footer {
+  background-color: slategrey;
+  color: indigo;
+  margin: 0;
   padding: 3px;
 }
