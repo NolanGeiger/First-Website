@@ -12,9 +12,10 @@ body{
 }
 
 ul {
-  list-style-position: inside;
+  text-align: even;
   margin: auto;
   width: 220px;
+  padding-left: 0 
 }
 
 .align-left{
@@ -46,10 +47,10 @@ h3{
 }
 
 a:link {
-  color: red;
+  color: dodgerblue;
 }
 a:visited {
-  color: purple;
+  color: darkgreen;
 }
 a:hover {
   color: green;
